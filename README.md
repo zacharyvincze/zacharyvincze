@@ -1,6 +1,6 @@
 ### Hey there, I'm Zachary Vincze.
 
-I'm currently a student studying computer science at the University of Toronto with an upcoming software engineering internship at AMD.
+I'm currently a student studying computer science at the University of Toronto with an upcoming software engineering internship on AMD's Radeon team.
 
 ---
 
