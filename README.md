@@ -1,4 +1,4 @@
-### Hey there, I'm Zachary Vincze *(Pseudonym FetchDcode)*.
+### Hey there, I'm Zachary Vincze.
 
 I'm currently a student studying computer science at the University of Toronto and an intern on AMD's Architecture and Software Technologies team.
 
